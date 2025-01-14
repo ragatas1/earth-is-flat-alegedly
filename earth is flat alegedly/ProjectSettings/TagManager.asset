@@ -3,12 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - answer1
+  - answer2
+  - answer3
+  - answer4
+  - logic
+  - Question
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - reporters
   - Water
   - UI
   - 
