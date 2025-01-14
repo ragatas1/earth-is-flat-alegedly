@@ -182,9 +182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The boredom and isolation of space can cause incredible mental strain.
-    My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
-    retract their statements after some rest and relaxation. "
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -454,6 +452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db15ecb0cd75257438894d955884eabd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   question: Several of your colleagues have been showing signs of delusion concerning
     the shape of the earth. Can you finally put an end to these rumors?
   choice: 0
@@ -603,9 +602,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The boredom and isolation of space can cause incredible mental strain.
-    My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
-    retract their statements after some rest and relaxation. "
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -921,6 +918,11 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!4 &408315028 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1152712003}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &763469774
 GameObject:
   m_ObjectHideFlags: 0
@@ -952,6 +954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db15ecb0cd75257438894d955884eabd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 0}
   question: How is sex in space different?
   choice: 0
   answerOne: "I\u2019m waiting for marriage."
@@ -974,8 +977,8 @@ MonoBehaviour:
   secondSuspicionTwo: 0
   secondConfirmationTwo: 0
   secondAnswerThree: The earth is fucking flat!
-  secondSuspicionThree: 0
-  secondConfirmationThree: 0
+  secondSuspicionThree: 20
+  secondConfirmationThree: 10
   secondAnswerFour: Just a lil, wink.
   secondSuspicionFour: 0
   secondConfirmationFour: 0
@@ -1151,9 +1154,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The boredom and isolation of space can cause incredible mental strain.
-    My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
-    retract their statements after some rest and relaxation. "
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1363,6 +1364,8 @@ Transform:
   m_Children:
   - {fileID: 763469776}
   - {fileID: 186401176}
+  - {fileID: 2099123259}
+  - {fileID: 408315028}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1096225471
@@ -1555,6 +1558,257 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &1152712003
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: tinfoil hat
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4ef20a0b811be024da0717d0e46f5ea2, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1103322838, guid: 6e8c97d55f9768f408586274758053cf, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: IS THE EARTH FLAT!?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: 'Yes! People of earth, you have been lied to for far too long. The earth
+        is not a globe. It is a flat circle with a wall of ice around the edge. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: No, of course not.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: As of right now scientific consensus is that the earth is round, but
+        that could always change given sufficient evidence.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: "I\u2019d prefer not to comment at this time."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: Is there an ice wall or is the barrier to hold in the oceans man made?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: Who let this wack job in here?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: Are you even a real reporter?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: "If the earth was flat, I\u2019d confidently say that there would have
+        to be an ice wall."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: There is a giant ice wall preventing all of the earth's oceans from
+        flowing over the edge.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!1001 &1180518244
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: alien
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 808eb6853d657df49a83285c0c83e1d4, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.402
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 907001608, guid: 14495b9ccbf30bd408f6021ce585491f, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: 'Geebzeeble gleep glop, gooble torp? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: 'Greebs zoople deep dop. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: "I\u2019m sorry I didn\u2019t catch that"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: Yes!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: No comment
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: What do you think of the dome?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: 'What dome? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "It\u2019s beautifully made. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: "Hypothetically speaking, I think, if a dome did exist, theoretically,
+        I\u2019d find its construction very impressive. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: I cannot comment on the existence of a dome at this time.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
 --- !u!1 &1291520152
 GameObject:
   m_ObjectHideFlags: 0
@@ -1587,6 +1841,8 @@ MonoBehaviour:
   suspicion: 0
   confirmation: 0
   questionInstance: {fileID: 0}
+  questionsAnswered: 0
+  questionsToAnswer: 0
 --- !u!4 &1291520154
 Transform:
   m_ObjectHideFlags: 0
@@ -1730,9 +1986,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The boredom and isolation of space can cause incredible mental strain.
-    My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
-    retract their statements after some rest and relaxation. "
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1968,9 +2222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Those who have been to space in the past have expressed a profound feeling
-    of love for humanity and our fragile place in the universe. Do you think they
-    would feel the same if we were all worms?
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2047,6 +2299,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1989836404}
   m_CullTransparentMesh: 1
+--- !u!4 &2099123259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1180518244}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

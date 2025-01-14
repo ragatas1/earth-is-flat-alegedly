@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class QuestionScript : MonoBehaviour
 {
+    [SerializeField] Animator anim;
     SpriteRenderer sprite;
     GameObject logikk;
     LogicScript logikkScript;
@@ -41,20 +42,21 @@ public class QuestionScript : MonoBehaviour
     [Header("Second")]
     public string questionTwo;
     bool second;
+    bool done;
     BoxCollider2D box;
-    [Header("SecondOne")]
+    [Header("Second One")]
     public string secondAnswerOne;
     [SerializeField] float secondSuspicionOne;
     [SerializeField] float secondConfirmationOne;
-    [Header("SecondTwo")]
+    [Header("Second Two")]
     public string secondAnswerTwo;
     [SerializeField] float secondSuspicionTwo;
     [SerializeField] float secondConfirmationTwo;
-    [Header("SecondThree")]
+    [Header("Second Three")]
     public string secondAnswerThree;
     [SerializeField] float secondSuspicionThree;
     [SerializeField] float secondConfirmationThree;
-    [Header("SecondFour")]
+    [Header("Second Four")]
     public string secondAnswerFour;
     [SerializeField] float secondSuspicionFour;
     [SerializeField] float secondConfirmationFour;
@@ -80,6 +82,10 @@ public class QuestionScript : MonoBehaviour
     void choosen()
     {
         logikkScript.questionInstance = this;
+        if (anim != null)
+        {
+            anim.SetTrigger("talk");
+        }
         questionObject = GameObject.FindGameObjectWithTag("Question");
         questionText = questionObject.GetComponent<TextMeshProUGUI>();
         objectOne = GameObject.FindGameObjectWithTag("answer1");
@@ -110,11 +116,17 @@ public class QuestionScript : MonoBehaviour
     }
     private void OnMouseEnter()
     {
-        sprite.color = Color.black;
+        if (anim != null && !done)
+        {
+            anim.SetBool("handup",true);
+        }
     }
     private void OnMouseExit()
     {
-        sprite.color= Color.white;
+        if (anim != null && !done)
+        {
+            anim.SetBool("handup", false);
+        }
     }
     public void sendit()
     {
@@ -153,6 +165,9 @@ public class QuestionScript : MonoBehaviour
         {
             box = gameObject.GetComponent<BoxCollider2D>();
             box.enabled = false;
+            done = true;
         }
+        logikkScript.questionsAnswered = logikkScript.questionsAnswered + 1;
+        logikkScript.chekr();
     }
 }
