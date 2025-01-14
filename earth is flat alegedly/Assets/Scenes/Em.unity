@@ -361,6 +361,95 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1001 &167589352
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: scientist
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 2d8bdd897b4611f4d8fabc3dc42b69b1, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -894179565, guid: 4c271e6d62c9ec5418c2e79a24b12207, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: "Scientifically speaking. What\u2019s your favorite shape?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: A sphere, a big beautiful sphere.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: "It used to be a sphere, but now it\u2019s a flat circle."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: Triangle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: "I\u2019m a fan of cubes personally"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
 --- !u!1 &186401175
 GameObject:
   m_ObjectHideFlags: 0
@@ -1366,8 +1455,14 @@ Transform:
   - {fileID: 186401176}
   - {fileID: 2099123259}
   - {fileID: 408315028}
+  - {fileID: 1023472321}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1023472321 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 167589352}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1096225471
 GameObject:
   m_ObjectHideFlags: 0
@@ -1576,11 +1671,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 4ef20a0b811be024da0717d0e46f5ea2, type: 2}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.56
+      value: -3.48
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.48
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1689,11 +1784,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 808eb6853d657df49a83285c0c83e1d4, type: 2}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.402
+      value: 3.45
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.49
+      value: -0.57
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.z
