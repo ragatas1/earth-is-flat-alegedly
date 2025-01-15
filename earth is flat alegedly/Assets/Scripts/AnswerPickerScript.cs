@@ -53,5 +53,6 @@ public class AnswerPickerScript : MonoBehaviour, IPointerDownHandler, IPointerEn
         questionScript = logikkScript.questionInstance;
         questionScript.choice = answerNumber;
         questionScript.sendit();
+        logikkScript.chekr();
     }
 }

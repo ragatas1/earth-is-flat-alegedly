@@ -214,12 +214,28 @@ PrefabInstance:
         Magnus Carlson?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: Who?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerTwo
       value: "It doesn\u2019t seem to have impacted him so far."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationFour
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerFour
@@ -230,6 +246,30 @@ PrefabInstance:
       value: "I don\u2019t know why you all keep mentioning the earth being flat.
         As I\u2019ve said before, the claims made by my fellow astronauts are entirely
         false. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -593,6 +633,22 @@ PrefabInstance:
         while in space?"
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationTwo
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: "I have findings that might change the scientific landscape as we know
         it, but I\u2019m waiting to be absolutely sure before going to the press."
@@ -610,6 +666,34 @@ PrefabInstance:
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: "I\u2019d prefer not to answer that question at the moment."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -1116,6 +1200,26 @@ PrefabInstance:
       value: You wanna do this the easy way? Or the hard way?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: The hard way.
       objectReference: {fileID: 0}
@@ -1124,12 +1228,40 @@ PrefabInstance:
       value: The easy way.
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerFour
       value: Are you with the Big Cigar Private Detective Agency?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationThree
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: A secret third option
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationTwo
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -1164,6 +1296,140 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!1 &632742760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 632742763}
+  - component: {fileID: 632742762}
+  - component: {fileID: 632742761}
+  m_Layer: 5
+  m_Name: ending text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &632742761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632742760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Thats all we had time for, for now, thank you all for your questions.
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 95.4
+  m_fontSizeBase: 95.4
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &632742762
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632742760}
+  m_CullTransparentMesh: 1
+--- !u!224 &632742763
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632742760}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1097005264}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -367.4}
+  m_SizeDelta: {x: 1834, y: 222}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &692884315 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
@@ -1442,11 +1708,11 @@ Transform:
   - {fileID: 1023472321}
   - {fileID: 2032024587}
   - {fileID: 692884315}
-  - {fileID: 1808246540}
   - {fileID: 1573345600}
+  - {fileID: 1808246540}
+  - {fileID: 1895833701}
   - {fileID: 2078691782}
   - {fileID: 1477879320}
-  - {fileID: 1895833701}
   - {fileID: 1194409015}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1638,6 +1904,7 @@ RectTransform:
   - {fileID: 55166240}
   - {fileID: 975808175}
   - {fileID: 1989836405}
+  - {fileID: 632742763}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1744,6 +2011,30 @@ PrefabInstance:
         with the monotony of living in space?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: -2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationTwo
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: "Well I spend most of my time wondering how the government has kept
         the truth about the flat earth from the people, hahahaha. Sorry that\u2019s
@@ -1754,13 +2045,41 @@ PrefabInstance:
       value: Me and the boys started playing russian roulette.
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationFour
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerFour
       value: Recently I have been taking lots of high quality pictures of the Earth.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationThree
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: I spend a lot of the day just doing my work. Exercising of course, and
         enjoying conversation with my fellow astronauts.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -1886,6 +2205,30 @@ PrefabInstance:
       value: Is there an ice wall or is the barrier to hold in the oceans man made?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationTwo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: Who let this wack job in here?
       objectReference: {fileID: 0}
@@ -1894,14 +2237,50 @@ PrefabInstance:
       value: Are you even a real reporter?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationFour
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerFour
       value: "If the earth was flat, I\u2019d confidently say that there would have
         to be an ice wall."
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationThree
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: There is a giant ice wall preventing all of the earth's oceans from
         flowing over the edge.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -2025,6 +2404,18 @@ PrefabInstance:
       value: What do you think of the dome?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: 'What dome? '
       objectReference: {fileID: 0}
@@ -2040,6 +2431,38 @@ PrefabInstance:
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: I cannot comment on the existence of a dome at this time.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -2145,7 +2568,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: answerOne
-      value: Space trash is a delicacy unrivaled on this mortal plane.
+      value: Space trash is a delicacy unrivaled on this mortal <i>plane</i>.
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: answerTwo
@@ -2166,6 +2589,26 @@ PrefabInstance:
         taste? '
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: Well, when you know something is expensive, that can make you think
         it tastes better.
@@ -2176,12 +2619,60 @@ PrefabInstance:
         of space trash. '
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationFour
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerFour
-      value: "I actually find that space trash tastes a bit\u2026 flat."
+      value: "I actually find that space trash tastes a bit\u2026 <i>flat</i>."
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: "Wait a second\u2026 You\u2019re just three raccoons in a trenchcoat."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationFour
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2226,7 +2717,11 @@ MonoBehaviour:
   confirmation: 0
   questionInstance: {fileID: 0}
   questionsAnswered: 0
-  questionsToAnswer: 0
+  questionsToAnswer: 22
+  endText: {fileID: 632742760}
+  endTime: 1
+  done: 0
+  sceneName: end
 --- !u!4 &1291520154
 Transform:
   m_ObjectHideFlags: 0
@@ -2401,6 +2896,18 @@ PrefabInstance:
         they would feel the same if we were all worms?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: "I\u2019ve recently been questioning everything I know and I don\u2019t
         think I\u2019m in the right emotional space to answer that question."
@@ -2416,6 +2923,54 @@ PrefabInstance:
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerThree
       value: No.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2787,7 +3342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: suspicionThree
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
@@ -2806,12 +3361,48 @@ PrefabInstance:
       value: The earth is fucking flat!
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondSuspicionThree
-      value: 20
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondConfirmationThree
-      value: 10
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3067,6 +3658,14 @@ PrefabInstance:
       value: Where the hell are my glossy jpegs of Spiderman!?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: "I\u2019ve never heard of this Spiderman in my life."
       objectReference: {fileID: 0}
@@ -3083,6 +3682,22 @@ PrefabInstance:
       propertyPath: secondAnswerThree
       value: Sometimes you have to go outside of the law to get justice. I would
         never betray Spiderman.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionFour
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.x
@@ -3188,7 +3803,7 @@ PrefabInstance:
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: answerOne
       value: "The moon isn\u2019t made of cheese. That\u2019s just a conspiracy theory.
-        Almost as ridiculous as saying the earth is flat."
+        <i> Almost </i> as ridiculous as saying the earth is flat."
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: answerTwo
@@ -3208,6 +3823,22 @@ PrefabInstance:
         Santa. Do you care to comment?
       objectReference: {fileID: 0}
     - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: confirmationOne
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: secondAnswerOne
       value: Australia is absolutely real. Just as real as my love for your mother.
       objectReference: {fileID: 0}
@@ -3224,6 +3855,50 @@ PrefabInstance:
       propertyPath: secondAnswerThree
       value: "As a representative of the scientific community I\u2019d like to go
         on the record as saying that both Australia and Santa are very real. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionOne
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionTwo
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

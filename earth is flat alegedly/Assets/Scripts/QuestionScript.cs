@@ -116,6 +116,15 @@ public class QuestionScript : MonoBehaviour
     }
     private void OnMouseEnter()
     {
+        if (logikkScript.done)
+        {
+            box = gameObject.GetComponent<BoxCollider2D>();
+            box.enabled = false;
+            done = true;
+        }
+        {
+            
+        }
         if (anim != null && !done)
         {
             anim.SetBool("handup",true);
