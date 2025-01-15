@@ -2719,7 +2719,7 @@ MonoBehaviour:
   questionsAnswered: 0
   questionsToAnswer: 22
   endText: {fileID: 632742760}
-  endTime: 1
+  endTime: 5
   done: 0
   sceneName: end
 --- !u!4 &1291520154
