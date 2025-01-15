@@ -122,6 +122,148 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &7109921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: nrk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 821b674154bc6554c941fad65fd35816, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1496334562, guid: 0280b6b5da4cc314aaae41a48d7a34bb, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: How do you talk to conspiracy theorists who believe the earth is flat?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "Everyone is entitled to their opinion, even if it\u2019s wrong."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: Questioning established knowledge is a grand scientific tradition and
+        I think it should be encouraged.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: "I haven\u2019t in the past, but maybe I should start."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: "I think it\u2019s important to reach out and reason with them. If you
+        show them the evidence they\u2019re sure to come around."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: If the earth was flat how might that affect former world chess champion
+        Magnus Carlson?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: Who?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "It doesn\u2019t seem to have impacted him so far."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: "We\u2019ll have to wait for those rumors to be proven true to see."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: "I don\u2019t know why you all keep mentioning the earth being flat.
+        As I\u2019ve said before, the claims made by my fellow astronauts are entirely
+        false. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
 --- !u!1 &55166239
 GameObject:
   m_ObjectHideFlags: 0
@@ -379,11 +521,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 2d8bdd897b4611f4d8fabc3dc42b69b1, type: 2}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.45
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -445,192 +587,63 @@ PrefabInstance:
       propertyPath: answerThree
       value: "I\u2019m a fan of cubes personally"
       objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: "What\u2019s the most important scientific discovery you\u2019ve made
+        while in space?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: "I have findings that might change the scientific landscape as we know
+        it, but I\u2019m waiting to be absolutely sure before going to the press."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: Science is a slow process. I just hope I can make a small contribution
+        through my work.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: "According to my colleagues, it\u2019s that the earth is flat, but until
+        we have concrete proof I won\u2019t go on the record."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: "I\u2019d prefer not to answer that question at the moment."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
---- !u!1 &186401175
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 186401176}
-  - component: {fileID: 186401179}
-  - component: {fileID: 186401178}
-  - component: {fileID: 186401177}
-  m_Layer: 3
-  m_Name: regular
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &186401176
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 186401175}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.720222, y: 0, z: 0}
-  m_LocalScale: {x: 0.45, y: 0.45, z: 0.45}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 997678732}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &186401177
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 186401175}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.01, y: 5.54}
-    newSize: {x: 2.01, y: 5.54}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2.01, y: 5.54}
-  m_EdgeRadius: 0
---- !u!114 &186401178
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 186401175}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db15ecb0cd75257438894d955884eabd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim: {fileID: 0}
-  question: Several of your colleagues have been showing signs of delusion concerning
-    the shape of the earth. Can you finally put an end to these rumors?
-  choice: 0
-  answerOne: "The boredom and isolation of space can cause incredible mental strain.
-    My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
-    retract their statements after some rest and relaxation. "
-  suspicionOne: 0
-  confirmationOne: 0
-  answerTwo: Delusion!? What the hell do you mean delusion? THE EARTH IS FUCKING
-    FLAT!
-  suspicionTwo: 0
-  confirmationTwo: 0
-  answerThree: No comment.
-  suspicionThree: 0
-  confirmationThree: 0
-  answerFour: I can state without a shadow of a doubt that the earth is round.
-  suspicionFour: 0
-  confirmationFour: 0
-  questionTwo: Most people think being an astronaut is one of the most exciting jobs
-    in the world but few understand the reality of the work. How do you cope with
-    the monotony of living in space?
-  secondAnswerOne: "Well I spend most of my time wondering how the government has
-    kept the truth about the flat earth from the people, hahahaha. Sorry that\u2019s
-    just a little joke I like to tell."
-  secondSuspicionOne: 0
-  secondConfirmationOne: 0
-  secondAnswerTwo: Me and the boys started playing russian roulette.
-  secondSuspicionTwo: 0
-  secondConfirmationTwo: 0
-  secondAnswerThree: I spend a lot of the day just doing my work. Exercising of course,
-    and enjoying conversation with my fellow astronauts.
-  secondSuspicionThree: 0
-  secondConfirmationThree: 0
-  secondAnswerFour: Recently I have been taking lots of high quality pictures of
-    the Earth.
-  secondSuspicionFour: 0
-  secondConfirmationFour: 0
---- !u!212 &186401179
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 186401175}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2993a6fbc6133ec4bb7ca986f3e3609d, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.01, y: 5.54}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &202924860
 GameObject:
   m_ObjectHideFlags: 0
@@ -1012,177 +1025,150 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
   m_PrefabInstance: {fileID: 1152712003}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &763469774
-GameObject:
+--- !u!1001 &561574671
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 763469776}
-  - component: {fileID: 763469775}
-  - component: {fileID: 763469778}
-  - component: {fileID: 763469777}
-  m_Layer: 3
-  m_Name: tabloid
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &763469775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763469774}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db15ecb0cd75257438894d955884eabd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim: {fileID: 0}
-  question: How is sex in space different?
-  choice: 0
-  answerOne: "I\u2019m waiting for marriage."
-  suspicionOne: -1
-  confirmationOne: 0
-  answerTwo: The boobies go crazy in zero g.
-  suspicionTwo: 1
-  confirmationTwo: 0
-  answerThree: Worse.
-  suspicionThree: 1
-  confirmationThree: 0
-  answerFour: Space sex comes with some logistical challenges.
-  suspicionFour: -2
-  confirmationFour: 0
-  questionTwo: When you nut does it push you backwards?
-  secondAnswerOne: "Like you wouldn\u2019t believe. "
-  secondSuspicionOne: 0
-  secondConfirmationOne: 0
-  secondAnswerTwo: "No, don\u2019t be stupid."
-  secondSuspicionTwo: 0
-  secondConfirmationTwo: 0
-  secondAnswerThree: The earth is fucking flat!
-  secondSuspicionThree: 20
-  secondConfirmationThree: 10
-  secondAnswerFour: Just a lil, wink.
-  secondSuspicionFour: 0
-  secondConfirmationFour: 0
---- !u!4 &763469776
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: noir
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c21898893055ace46b322552944fa9d6, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1516056806, guid: 6107a491d6801a84a93feb0fff2556bd, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: C'mon buddy, what are you hiding?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: A massive dossier full of evidence revealing that the earth is actually
+        flat.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: 'Nothing. My job as a scientist is to be completely transparent with
+        the public and I take my job very seriously. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: "Myself and my fellow astronauts aren\u2019t hiding anything. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: That the earth is actually flat. Is that what you want to hear?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: You wanna do this the easy way? Or the hard way?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: The hard way.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: The easy way.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: Are you with the Big Cigar Private Detective Agency?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: A secret third option
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!4 &692884315 stripped
 Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 2102162559}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763469774}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.7202215, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 997678732}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &763469777
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763469774}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.027536988, y: 0.13768554}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.81, y: 3.48}
-    newSize: {x: 2.81, y: 3.48}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.6534412, y: 2.7640352}
-  m_EdgeRadius: 0
---- !u!212 &763469778
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763469774}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0c10eabb924ce06458e948bac033756b, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.81, y: 3.48}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &975808174
 GameObject:
   m_ObjectHideFlags: 0
@@ -1451,11 +1437,17 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 763469776}
-  - {fileID: 186401176}
   - {fileID: 2099123259}
   - {fileID: 408315028}
   - {fileID: 1023472321}
+  - {fileID: 2032024587}
+  - {fileID: 692884315}
+  - {fileID: 1808246540}
+  - {fileID: 1573345600}
+  - {fileID: 2078691782}
+  - {fileID: 1477879320}
+  - {fileID: 1895833701}
+  - {fileID: 1194409015}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1023472321 stripped
@@ -1653,6 +1645,156 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &1139217816
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: regular
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fe98290c7ed7cb44baac2174be4d1b6e, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2144460622, guid: 55c73db1c19b2e04e8d18f88f6c164ce, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 1573345602}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: Several of your colleagues have been showing signs of delusion concerning
+        the shape of the earth. Can you finally put an end to these rumors?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "The boredom and isolation of space can cause incredible mental strain.
+        My colleagues are pillars of the scientific community and I\u2019m sure they\u2019ll
+        retract their statements after some rest and relaxation. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: Delusion!? What the hell do you mean delusion? THE EARTH IS FUCKING
+        FLAT!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: I can state without a shadow of a doubt that the earth is round.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: No comment.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: Most people think being an astronaut is one of the most exciting jobs
+        in the world but few understand the reality of the work. How do you cope
+        with the monotony of living in space?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: "Well I spend most of my time wondering how the government has kept
+        the truth about the flat earth from the people, hahahaha. Sorry that\u2019s
+        just a little joke I like to tell."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: Me and the boys started playing russian roulette.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: Recently I have been taking lots of high quality pictures of the Earth.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: I spend a lot of the day just doing my work. Exercising of course, and
+        enjoying conversation with my fellow astronauts.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
 --- !u!1001 &1152712003
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1671,11 +1813,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 4ef20a0b811be024da0717d0e46f5ea2, type: 2}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.48
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1761,6 +1903,34 @@ PrefabInstance:
       value: There is a giant ice wall preventing all of the earth's oceans from
         flowing over the edge.
       objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1784,11 +1954,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 808eb6853d657df49a83285c0c83e1d4, type: 2}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.45
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.57
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1904,6 +2074,125 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!1001 &1194409014
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: racoons
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c279c9f3740140d408db96dab1c55586, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1111150714, guid: fd536c1bcb4fa7c40bd6c5c70c9946a3, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: More and more scientists have expressed concerns about space trash and
+        debris. As an astronaut, do you think it looks tasty?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: Space trash is a delicacy unrivaled on this mortal plane.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: Unfortunately collecting samples of space trash is a difficult task.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: "THE EARTH IS FLAT YOU FOOLS! WHAT DON\u2019T YOU UNDERSTAND?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: "As a bit of a picky eater\u2026 yes!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: 'Space trash is often made of expensive pieces of machinery from spacecraft
+        and satellites. Do you think the price of space trash affects its perceived
+        taste? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: Well, when you know something is expensive, that can make you think
+        it tastes better.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: 'I have more important things to think about than the succulent delicacy
+        of space trash. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: "I actually find that space trash tastes a bit\u2026 flat."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: "Wait a second\u2026 You\u2019re just three raccoons in a trenchcoat."
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!4 &1194409015 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1194409014}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1291520152
 GameObject:
   m_ObjectHideFlags: 0
@@ -2021,6 +2310,123 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1477879319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: worm
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ef689c3ba423e6a4b82eae28a6f21cd7, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1804636927, guid: 29c7ba6d0aebd064594eb5937bfcbf54, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: Would you still love me if I was a worm?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "No, I mean, what\u2019s even the point?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: Of course my beloved.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: Is your brother also a worm?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: No comment
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: Those who have been to space in the past have expressed a profound feeling
+        of love for humanity and our fragile place in the universe. Do you think
+        they would feel the same if we were all worms?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: "I\u2019ve recently been questioning everything I know and I don\u2019t
+        think I\u2019m in the right emotional space to answer that question."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "I\u2019d love you all just the same. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: No comment.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: No.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!4 &1477879320 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1477879319}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1525309163
 GameObject:
   m_ObjectHideFlags: 0
@@ -2260,6 +2666,168 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!4 &1573345600 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1139217816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1573345602 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1139217816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1808246540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 7109921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1895833700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: tabloid
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 906663a7ada902045bbf8eb00c6d568a, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1802045101, guid: eaab60122e7069a4d81f27a9ec4c1053, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 1895833702}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: How is sex in space different?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "I\u2019m waiting for marriage."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: The boobies go crazy in zero g.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: Space sex comes with some logistical challenges.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: Worse.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: When you nut does it push you backwards?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionOne
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionFour
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: suspicionThree
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: "Like you wouldn\u2019t believe. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "No, don\u2019t be stupid."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: Just a lil, wink.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: The earth is fucking flat!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondSuspicionThree
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondConfirmationThree
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!4 &1895833701 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1895833700}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1895833702 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 1895833700}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1989836404
 GameObject:
   m_ObjectHideFlags: 0
@@ -2394,11 +2962,274 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1989836404}
   m_CullTransparentMesh: 1
+--- !u!4 &2032024587 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 561574671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2078691782 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+  m_PrefabInstance: {fileID: 2132537207}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2099123259 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
   m_PrefabInstance: {fileID: 1180518244}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2102162559
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: jjj
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c4a7b4b33b0671847bc312bb84156926, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -935009472, guid: ba292a7012cc19640af647b6e73ec1d6, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: I need photos of Spiderman damnit!
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "I don\u2019t have pictures of Spiderman, but I do have some really
+        incredible pictures of the earth from space."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: "I\u2019m doing my best but I can\u2019t catch the slippery bastard."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: "I\u2019ll keep my eye out."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: I wish I could help but there are no spidermen in space.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: Where the hell are my glossy jpegs of Spiderman!?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: "I\u2019ve never heard of this Spiderman in my life."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "If I find him I\u2019ll see if I can get a picture."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: 'The existence of a half man half spider is an affront to god. I will
+        do everything in my power to help apprehend this foul creature. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: Sometimes you have to go outside of the law to get justice. I would
+        never betray Spiderman.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8583131539394964142, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_SpriteTilingProperty.adaptiveTilingThreshold
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+--- !u!1001 &2132537207
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 997678732}
+    m_Modifications:
+    - target: {fileID: 3515535048767037664, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Name
+      value: a child
+      objectReference: {fileID: 0}
+    - target: {fileID: 4060010249378053737, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c491d27e754084d4999ba8b138c9e1ac, type: 2}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481613931119514986, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1546352382, guid: b932bb841e48fce449e9fc2105581a69, type: 3}
+    - target: {fileID: 4777152989529046835, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: question
+      value: What kind of cheese is the moon made of, and is it stinky?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerOne
+      value: "The moon isn\u2019t made of cheese. That\u2019s just a conspiracy theory.
+        Almost as ridiculous as saying the earth is flat."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerTwo
+      value: 'Hahahaa, umm. Gorgonzola, and yeah it sure does stink. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerFour
+      value: Who let this child in here?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: answerThree
+      value: No comment.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: questionTwo
+      value: My mommy, I mean um source, says that Australia is made up just like
+        Santa. Do you care to comment?
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerOne
+      value: Australia is absolutely real. Just as real as my love for your mother.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerTwo
+      value: "I\u2019ve been to Australia on several occasions and all the actors
+        have been very welcoming."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerFour
+      value: Only one of those things is made up.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576281249228136940, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
+      propertyPath: secondAnswerThree
+      value: "As a representative of the scientific community I\u2019d like to go
+        on the record as saying that both Australia and Santa are very real. "
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0061e7d7b692b5e46bb8dc60b2eaef8f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
