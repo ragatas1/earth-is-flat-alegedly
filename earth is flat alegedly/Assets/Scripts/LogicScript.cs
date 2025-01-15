@@ -11,12 +11,14 @@ public class LogicScript : MonoBehaviour
     public int questionsAnswered;
     [SerializeField] int questionsToAnswer;
     [SerializeField] GameObject endText;
+    bool altEnd;
+    [SerializeField] GameObject altEndText;
     [SerializeField] float endTime;
     [HideInInspector] public bool done;
-    bool die;
-    bool confirm;
     [SerializeField] string sceneName;
     int sceneNumber;
+    [SerializeField] float susToDie;
+    [SerializeField] float confirmToConfirm;
     // Start is called before the first frame update
     void Start()
     {
@@ -36,23 +38,24 @@ public class LogicScript : MonoBehaviour
         }
         if (suspicion >= 5) 
         { 
+            altEnd = true;
             end(); 
         }
     }
     void end()
     {
         done = true;
-        if (suspicion > 0 && !(confirmation > 7))
+        if (suspicion > susToDie && !(confirmation > confirmToConfirm))
         {
             //you die and nothing is confirmed
             sceneNumber = 1;
         }
-        else if (suspicion > 0 && confirmation > 7) 
+        else if (suspicion > susToDie && confirmation > confirmToConfirm) 
         {
             //you die and confirm
             sceneNumber = 2;
         }
-        else if (!(suspicion > 0) && !(confirmation > 7)) 
+        else if (!(suspicion > susToDie) && !(confirmation > confirmToConfirm)) 
         {
             //you survive and nothing is confirmed
             sceneNumber = 3;
@@ -66,7 +69,14 @@ public class LogicScript : MonoBehaviour
     }
     IEnumerator theEnd()
     {
-        endText.SetActive(true);
+        if (altEnd)
+        {
+            altEndText.SetActive(true);
+        }
+        else
+        {
+            endText.SetActive(true);
+        }
         yield return new WaitForSeconds(endTime);
         SceneManager.LoadScene(sceneName+sceneNumber);
     }

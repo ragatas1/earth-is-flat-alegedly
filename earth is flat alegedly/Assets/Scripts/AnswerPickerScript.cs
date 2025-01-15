@@ -32,7 +32,7 @@ public class AnswerPickerScript : MonoBehaviour, IPointerDownHandler, IPointerEn
     }
     public void OnPointerEnter(PointerEventData eventData)
     {
-        txt.color = Color.black;
+        txt.color = Color.gray;
     }
     public void OnPointerExit(PointerEventData eventData)
     {
